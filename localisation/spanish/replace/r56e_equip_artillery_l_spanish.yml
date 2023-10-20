@@ -3210,6 +3210,12 @@
  SWE_artillery_equipment_3:0 "Bofors 10.5cm Haubits m/45"
  SWE_artillery_equipment_3_short:0 "10.5cm Haubits m/45"
  
+ SWE_gw_armored_car_equipment:0 "Pansárbil fm/29"
+ SWE_gw_armored_car_equipment_short:0 "Pbil fm/29"
+ SWE_armored_car_equipment_1:0 "Pansárbil m/39"
+ SWE_armored_car_equipment_1_short:0 "Pbil m/39"
+ SWE_armored_car_equipment_2:0 "Pansárbil m/41"
+ SWE_armored_car_equipment_2_short:0 "Pbil m/41"
 #-> Rocket artillery <><>
  SWE_rocket_artillery_equipment_1:0 "12.7cm Raket m/41"
  SWE_rocket_artillery_equipment_1_short:0 "12.7cm Raket m/41"
